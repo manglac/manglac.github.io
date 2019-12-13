@@ -1,2 +1,2 @@
 # manglac.github.io
-My Homepage
+README.md contents
